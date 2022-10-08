@@ -1,0 +1,9 @@
+const veggies = [
+    {name:'spinach'}, 
+    {name: 'cauliflower'}, 
+    {name: 'brusslesprout'},
+    {name: 'esparagus'}, 
+    {name: 'lettuce'}
+]
+
+module.exports = {veggies}
